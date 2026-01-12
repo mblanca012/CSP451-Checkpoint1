@@ -20,6 +20,8 @@ Open `index.html` in a web browser.
 
 Load the page and check the browser console for output.
 
+Use the About link on the home page to view about.html.
+
 
 
 \## Contributing
