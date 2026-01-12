@@ -2,6 +2,10 @@
 
 
 
+Created by Michael Blanca for CSP451
+
+
+
 This repository is for CSP451 Checkpoint 1 and demonstrates basic Git and GitHub workflows.
 
 
